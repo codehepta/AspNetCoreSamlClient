@@ -1,0 +1,6 @@
+@AspNetCoreSamlClient_HostAddress = http://localhost:5189
+
+GET {{AspNetCoreSamlClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
